@@ -1,0 +1,7 @@
+# Python dependencies for the ground-scale pilot
+# fill in actual versions you used
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
