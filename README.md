@@ -6,10 +6,7 @@ Funded by the European Union under MSCA **Grant Agreement No. 101169330**.
 | | |
 |---|---|
 | **Author** | Syed Bukhari |
-| **Programme** | PhD in Electrical Engineering and Intelligent Systems, University of Coimbra |
-| **Supervisor** | Prof. Gil Gonçalves (INESC Coimbra) |
-| **Co-supervisor** | Prof. Lino José Forte Marques (ISR-UC) |
-| **Project** | AIGreenBots (MSCA GA No. 101169330) |
+
 
 ---
 
